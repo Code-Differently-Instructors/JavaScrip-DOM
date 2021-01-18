@@ -19,6 +19,7 @@
   - [Phase 3](#phase-3)
       - [Objective 1](#objective-1-2)
       - [Objective 2](#objective-2-3)
+      - [Objective 3](#objective-3-2)
 
 ## Objectives
 
@@ -104,4 +105,11 @@ We will utilize a third party API to generate data!
   
 #### Objective 2
 - Make Axios call to generate data. 
+- Data will populate into `Data Json` file.
+- Create `data.js` file and move data from `Data Json` into `data.js` file.
 
+
+#### Objective 3
+- import data from `data.js` file into `phase2.js` file using `import` keyword.
+- Address the `body` of the document using the Dom.
+- Using the `map` method, we can populate the document with our API data.
