@@ -38,7 +38,9 @@ Phase one will consist of us manipulating and accessing the DOM utilizing data t
 
 #### Objective 1
 **Please remember that `id` attributes can only be used once on each tag, should never had multiple `id` attributes with the same value, but you can do that with the `classes` attribute**
-- Add your `script` tag under the `body` closing tag
+We will do the following in the `index.html` file:
+
+- Add your `script` tag under the `body` closing tag.
 - In the `body` we will add an `image`, `h1`, and `p` tags and fill each tag with some information.
 - The `image` tag will contain an image of a person or place (not derogatory) and have an `id` attribute.
 - The `h1` tag will contain a name for said image and have a `class` and `id` attribute.
